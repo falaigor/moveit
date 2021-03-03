@@ -25,5 +25,7 @@
 }
 
 .profileContainer div p img {
+  width: 14px;
+  height: 16px;
   margin-right: 0.5rem;
 }
